@@ -2,122 +2,47 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About Me
 
-[Link to another page](./another-page.html).
+Hi, I'm Sid (Siddhant) Patil — a freshman in high school and a self-taught developer with about 4-5 years of coding experience. I work mainly in Java, Python, and HTML/CSS/JS, and I'm currently leveling up my Python skills for a bigger project I'm building. Outside of code, I play the flute, play sports, and hang out with friends.
 
-There should be whitespace between paragraphs.
+## Projects
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### [Utopia](https://github.com/sidpatil11/Utopia)
+A personal productivity app I designed and directed, built with AI assistance. I defined the features, debugged issues, and learned a lot about how full-stack apps are structured along the way. Targeting an MVP launch by August 2026.
+**Tech:** Python
+[Source](https://github.com/sidpatil11/Utopia)
 
-# Header 1
+### [SidUtopia](https://github.com/sidpatil11/SidUtopia)
+My first attempt at a personal productivity website. It works for me, but it didn't scale well — which is what led me to rebuild the idea from scratch as Utopia above.
+**Tech:** HTML, CSS, JavaScript
+[Source](https://github.com/sidpatil11/SidUtopia)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### [BilboBagginsPBA](https://github.com/sidpatil11/BilboBagginsPBA)
+A website about Bilbo Baggins from The Hobbit, built for a school project.
+**Tech:** HTML, CSS, JavaScript
+[Live Demo](https://bilbobagginspba.netlify.app/) · [Source](https://github.com/sidpatil11/BilboBagginsPBA)
 
-## Header 2
+### [LearningJava](https://github.com/sidpatil11/LearningJava)
+A collection of mini-projects from when I was learning Java.
+**Tech:** Java
+[Source](https://github.com/sidpatil11/LearningJava)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### [LearningPython](https://github.com/sidpatil11/LearningPython)
+A collection of mini-projects from when I was learning Python.
+**Tech:** Python
+[Source](https://github.com/sidpatil11/LearningPython)
 
-### Header 3
+## Skills
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- **Languages:** Java, Python, HTML, CSS, JavaScript
+- **Currently learning:** Advanced Python
+- **Interested in exploring next:** AI/ML
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## What's Next
 
-#### Header 4
+I'm focused on polishing Utopia toward an MVP launch in August 2026, and after that I want to dive into AI/ML.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Contact
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- GitHub: [github.com/sidpatil11](https://github.com/sidpatil11)
