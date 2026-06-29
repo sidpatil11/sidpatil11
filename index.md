@@ -11,7 +11,7 @@ Hi, I'm Sid (Siddhant) Patil — a freshman in high school and a self-taught dev
 ### [Utopia](https://github.com/sidpatil11/Utopia)
 A personal productivity app I designed and directed, built with AI assistance. I defined the features, debugged issues, and learned a lot about how full-stack apps are structured along the way. Targeting an MVP launch by August 2026.
 **Tech:** Python
-[Source](https://github.com/sidpatil11/Utopia)
+[Live Demo](http://utopia-production-ca7d.up.railway.app/) · [Source](https://github.com/sidpatil11/Utopia)
 
 ### [SidUtopia](https://github.com/sidpatil11/SidUtopia)
 My first attempt at a personal productivity website. It works for me, but it didn't scale well — which is what led me to rebuild the idea from scratch as Utopia above.
